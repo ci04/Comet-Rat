@@ -23,4 +23,5 @@ Remote Access Trojan - 64bit / 32bit
 - Process Manger
 - Registry Editior
 - Scheduled Tasks
---- Copyright : A8Fit'Alruqi ---
+
+# Copyright : A8Fit'Alruqi
